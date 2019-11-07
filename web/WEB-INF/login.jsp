@@ -20,6 +20,6 @@
             
         </form>
         
-            
+        <a href="forgot">Forgot Password?</a>
     </body>
 </html>
